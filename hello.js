@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log ('Coffee')
+console.log('"6+6=12" said the frog.')
 
 /*  
 Next, PLAY! 
